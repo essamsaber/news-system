@@ -1,0 +1,99 @@
+/* Start Main Rules*/
+body{
+    background-color: #F4F4F4;
+    font-family: Tahoma;
+    font-size:16px;
+}
+/* End Main Rules */
+.container {
+    min-height: 500px;
+}
+/* Container DIV */
+
+/* End Container Format */
+
+/* Start Login Form */
+.login{
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login h4{
+    color:#888;
+}
+
+.login input{
+    margin-bottom: 10px;
+}
+
+.login .form-control{
+    background-color: #EAEAEA;
+    text-align: right;
+}
+
+.login .btn{
+    background-color: #008dde;
+}
+
+/* End Login Form*/
+
+/* Start Bootstrap Editing */
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
+
+.navbar-header {
+    float: right;
+}
+
+.navbar-brand {
+	font-size:1em;
+}
+.dropdown-menu {
+	text-align: right;
+	background-color:#2E9AFE;
+	padding:0px; 
+}
+/* End Bootstrap Editing */
+
+/* Begin Members Editing */
+.form-control {
+    text-align: right;
+}
+/* End Members Editing */
+
+/* Footer  */
+.footer {
+    background-color: #222222;
+    width: 1170px;
+    height: 40px;
+    margin: 0 auto;
+    padding:0px;
+    color: #FFFFFF ;
+    border-radius: 5px;
+}  
+.footer h6 {
+    padding-top:10px;
+} 
+/* End footer */
+
+/* Table */
+.table {
+    width: 100%;
+}
+
+/* News body */
+#news_body_ifr {
+    min-height: 300px;
+}
+
+/* News Img */
+#news_image {
+    direction: rtl;
+    float: right;
+}
+
+tbody, th{
+    text-align: right;
+}
